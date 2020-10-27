@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
   main: {
     flex: 1,
   },
+
   title: {
     flex: 1,
     textAlign: 'center',
